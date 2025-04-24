@@ -1,9 +1,9 @@
-package org.example;
+
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.devtools.v85.systeminfo.SystemInfo;
 import org.testng.annotations.Test;
+
 
 public class GitCISelenium {
 
